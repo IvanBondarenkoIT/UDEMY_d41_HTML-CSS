@@ -16,10 +16,27 @@
             color: red;
         }
 
-        img {
-            background-color: black;
+        img:hover {
+            background-color: gold;
+        }
+
+
+        .bacon {
+            background-color: green;
+        }
+
+        .broccoli {
+            background-color: red;
+        }
+
+        .circular {
+            border-radius: 100%;
         }
 
         a {
             color: #F6F6F6;
+        }
+
+        #heading {
+            color: blue;
         }
